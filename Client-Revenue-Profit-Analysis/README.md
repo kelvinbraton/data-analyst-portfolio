@@ -1,4 +1,5 @@
-Project OverviewThis project analyzes sales transaction data from multiple clients between 30 May 2023 and 2 June 2023. The goal was to identify which departments and payment methods generated the highest revenue and profit, while properly handling data quality issues.
+Project Overview
+This project analyzes sales transaction data from multiple clients between 30 May 2023 and 2 June 2023. The goal was to identify which departments and payment methods generated the highest revenue and profit, while properly handling data quality issues.
 Business Questions
 Which department generated the highest revenue and profit?
 Which payment method was most used?
